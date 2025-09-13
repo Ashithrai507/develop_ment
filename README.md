@@ -119,16 +119,8 @@ DevOps is a culture and set of practices that integrates **development (Dev)** a
     - Auditing and compliance
     - Debugging and troubleshooting
 
----
 
-## 7. 🔹 Next Steps
 
-- Explore advanced tools (Kubernetes, Terraform)
-- Continue hands-on practice
-- Adopt continuous improvement mindset
-- Join DevOps communities
-- Stay updated with latest trends
 
-CERTIFICATION:
 
 [devolopment](https://www.notion.so/C-p-Tracking-265fafbe3c2f8005b2b2ebe0843c3231?source=copy_link)
