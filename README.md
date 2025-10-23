@@ -1,7 +1,8 @@
 # Devlop_ment:
 [devolopment](https://www.notion.so/C-p-Tracking-265fafbe3c2f8005b2b2ebe0843c3231?source=copy_link)
+<detail>
+    <summay>INTRODUCTION TO DEVops</summary>
 
-INTRODUCTION:
 
 DevOps is a culture and set of practices that integrates **development (Dev)** and **operations (Ops)** to improve collaboration, automation, and continuous delivery.
 
@@ -119,8 +120,7 @@ DevOps is a culture and set of practices that integrates **development (Dev)** a
     - Root cause analysis
     - Auditing and compliance
     - Debugging and troubleshooting
-
-
+</detail>
 
 
 
