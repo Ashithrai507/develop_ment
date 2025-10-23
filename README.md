@@ -13,8 +13,7 @@ DevOps is a culture and set of practices that integrates **development (Dev)** a
 ## 
 
 ## Version Control with Git
-
-- **What is Git?**
+-**What is Git?**
     
     A **distributed version control system** that tracks code changes and enables collaboration.
     
@@ -130,15 +129,15 @@ DevOps is a culture and set of practices that integrates **development (Dev)** a
 The backend is the server-side part of a software system that handles operations invisible to the user.
 It is responsible for:
 
-- **Managing and storing data
+- **Managing and storing data**
 
-**Executing business logic
+**Executing business logic**
 
-**Communicating with the frontend
+**Communicating with the frontend**
 
 When a user performs an action on the frontend (e.g., saving data or logging in), the backend processes that action and interacts with the database to return the correct result.
 
-2. Backend Workflow (Step-by-Step)
+## 2. Backend Workflow (Step-by-Step)
 Step 1: User Action (Frontend)
 
 A user interacts with the frontend interface — for example, entering data and clicking a Save button.
@@ -161,19 +160,19 @@ Step 3: Backend Receives the Request
 
 The backend (e.g., Node.js, Django, Flask) performs:
 
-Input validation
+**Input validation**
 
-Authentication checks
+**Authentication checks**
 
-Business logic execution
+**Business logic execution**
 
-Database operations via a Database Management System (DBMS)
+## Database operations via a Database Management System (DBMS)
 
 Step 4: Data Management System (DBMS)
 
 The DBMS handles data storage, retrieval, and management.
 
-Common Types:
+**Common Types:**
 
 Relational Databases (SQL): MySQL, PostgreSQL, SQLite
 
@@ -206,14 +205,14 @@ Once the DBMS confirms the operation, the backend sends a response:
 
 The frontend then displays a success message or updated data to the user.
 
-3. Backend Architecture Overview
+## 3. Backend Architecture Overview
 [Frontend (User)] ⇄ [Backend Server] ⇄ [Database]
 
-Component	Description
-Frontend	User interface (React, Angular, Flutter)
-Backend Server	API and business logic (Node.js, Django, Flask)
-Database	Data management system (PostgreSQL, MongoDB)
-4. Key Backend Concepts
+## Component	Description
+**Frontend	User interface (React, Angular, Flutter)**
+**Backend Server	API and business logic (Node.js, Django, Flask)**
+**Database	Data management system (PostgreSQL, MongoDB)**
+## 4. Key Backend Concepts
 Concept	Description
 API	Interface that enables communication between frontend and backend
 Server	Runs backend code and handles requests
@@ -221,13 +220,13 @@ DBMS	Manages data storage and retrieval
 ORM (Object Relational Mapper)	Simplifies database interaction (e.g., Mongoose, Prisma, SQLAlchemy)
 Authentication	Controls access and ensures security
 Caching	Temporarily stores data to improve performance
-5. Example Tech Stack
+## 5. Example Tech Stack
 Layer	Example Technologies
 Frontend	React, Vue.js, Flutter
 Backend	Node.js (Express), Django, Flask
 Database	MongoDB, PostgreSQL, MySQL
 Hosting	AWS, Render, Vercel, Firebase
-6. Data Flow Summary
+## 6. Data Flow Summary
 
 User triggers an action in the frontend.
 
