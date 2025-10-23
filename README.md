@@ -125,16 +125,16 @@ DevOps is a culture and set of practices that integrates **development (Dev)** a
 <details>
     <summary>How Backend Works and How Data Is Stored Using a Data Management System</summary>
     
-1. What Is the Backend
+##1. What Is the Backend
 
 The backend is the server-side part of a software system that handles operations invisible to the user.
 It is responsible for:
 
-Managing and storing data
+**Managing and storing data
 
-Executing business logic
+**Executing business logic
 
-Communicating with the frontend
+**Communicating with the frontend
 
 When a user performs an action on the frontend (e.g., saving data or logging in), the backend processes that action and interacts with the database to return the correct result.
 
